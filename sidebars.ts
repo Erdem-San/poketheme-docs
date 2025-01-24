@@ -38,8 +38,8 @@ const sidebars: SidebarsConfig = {
       label: 'Gift Craft',
       items: [
         {
-          type: 'doc',
-          id: 'gift-craft/installation',
+          type: 'link',
+          href: 'https://www.wix.com/app-market?appMarketParams=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb3V0ZSI6InByZXZpZXciLCJhcHBEZWZJZCI6IjhiODRmMDYwLTc4NjYtNDdhNC1hNDk2LTc3N2EyYTZhNzY2OSIsImxhbmd1YWdlQ29kZSI6InRyIiwiaWF0IjoxNzM3NzAzNzIyfQ.2O602DnOG1eiNSypUENV1CeirVcYghtPfpiR3UIPDbc',
           label: 'Installation',
         },
         {
@@ -51,6 +51,16 @@ const sidebars: SidebarsConfig = {
           type: 'doc',
           id: 'gift-craft/widget',
           label: 'Widget',
+        },
+        {
+          type: 'doc',
+          id: 'gift-craft/lightbox',
+          label: 'Lightbox',
+        },
+        {
+          type: 'doc',
+          id: 'gift-craft/panel',
+          label: 'Panel',
         },
       ],
     },
