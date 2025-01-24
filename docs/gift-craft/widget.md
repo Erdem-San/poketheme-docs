@@ -2,32 +2,34 @@
 
 ## Getting Started
 
-### Widgeti Yükleme ###
+### Widget Installation ###
 
-Ürün sayfasına girip Product Page widget'ine tıkladığınızda resimde de göreceğiniz üzere bir plugin yükleme butonuyla karşılaşacaksınız buradan **Gift Craft Plugin**'i yükleyebilirsiniz
-![plugin installation guide](/assets/gift-craft/install-plugin.png)
+You can install the Gift Craft Widget by clicking the + icon(Add Elements) on the left side and selecting it from the App Widget section.
 
-### Widget Dizaynı
+![Widget installation guide](/assets/gift-craft/widget.png)
 
-Ayrıca Plugini ait item'lerin dizaynını da değiştirebilirsiniz örnek renk, yazı tipi..
-![plugin design](/assets/gift-craft/plugin-design.png)
+### Widget Design
+
+You can also customize the design of Widget items, such as colors and fonts.
+
+![Widget design](/assets/gift-craft/widget-design.png)
 
 ## Setup
 
 ### Dashboard ###
 
-İlk olarak Box'ları ve Card'ları oluşturmakla işe başlıyoruz
+First, we start by creating Boxes and Cards.
 
 ![products page](/assets/gift-craft/products.png)
 
-Ardından oluşturduğumuz Box ve Card'ları Category sayfasında oluşturduğumuz kategorilere ekliyoruz.
+Then, we add the created Boxes and Cards to the categories we created on the Category page.
 
 ![category page](/assets/gift-craft/categories.png)
 
 ### Editor ###
 
-Editor bölümünde plugin'in üstüne geldip settings yazısı ya da iconuna tıkladığımızda çıkan panel bize tüm plugin'i yönetmemizi sağlayacaktır. Bu bölümden oluşturduğunuz Categorileri dropdown'da göreceksiniz. İlgili alanları seçin.
+In the Editor section, when you hover over the Widget and click on the settings text or icon, a panel will appear that allows you to manage the entire Widget. You will see your created Categories in the dropdown on this panel. Select the relevant fields.
 
-![Editor Panel](/assets/gift-craft/plugin-panel.png)
+![Editor Panel](/assets/gift-craft/widget-panel.png)
 
-Artık Box ve Card'larınız plugin'e bağlandı ve kullanıma hazır. **Panel** kakkında daha detaylı bilgi için [Panel](/docs/gift-craft/panel) bölümüne gidin.
+Your Boxes and Cards are now connected to the Widget and ready to use. For more detailed information about the **Panel**, go to the [Panel](/docs/gift-craft/panel) section.

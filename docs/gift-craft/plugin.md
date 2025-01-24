@@ -2,32 +2,34 @@
 
 ## Getting Started
 
-### Plugini Yükleme ###
+### Plugin Installation ###
 
-Ürün sayfasına girip Product Page widget'ine tıkladığınızda resimde de göreceğiniz üzere bir plugin yükleme butonuyla karşılaşacaksınız buradan **Gift Craft Plugin**'i yükleyebilirsiniz
+When you enter the product page and click on the Product Page widget, you will see a plugin installation button as shown in the image. From here, you can install the **Gift Craft Plugin**
+
 ![plugin installation guide](/assets/gift-craft/install-plugin.png)
 
-### Plugin Dizaynı
+### Plugin Design
 
-Ayrıca Plugini ait item'lerin dizaynını da değiştirebilirsiniz örnek renk, yazı tipi..
+You can also customize the design of the plugin items, such as colors and fonts.
+
 ![plugin design](/assets/gift-craft/plugin-design.png)
 
 ## Setup
 
 ### Dashboard ###
 
-İlk olarak Box'ları ve Card'ları oluşturmakla işe başlıyoruz
+First, we start by creating Boxes and Cards
 
 ![products page](/assets/gift-craft/products.png)
 
-Ardından oluşturduğumuz Box ve Card'ları Category sayfasında oluşturduğumuz kategorilere ekliyoruz.
+Then, we add the created Boxes and Cards to the categories we created on the Category page.
 
 ![category page](/assets/gift-craft/categories.png)
 
 ### Editor ###
 
-Editor bölümünde plugin'in üstüne geldip settings yazısı ya da iconuna tıkladığımızda çıkan panel bize tüm plugin'i yönetmemizi sağlayacaktır. Bu bölümden oluşturduğunuz Categorileri dropdown'da göreceksiniz. İlgili alanları seçin.
+When you hover over the plugin in the Editor section and click on the settings text or icon, the panel that appears will allow you to manage the entire plugin. You will see the Categories you created in the dropdown from this section. Select the relevant fields.
 
 ![Editor Panel](/assets/gift-craft/plugin-panel.png)
 
-Artık Box ve Card'larınız plugin'e bağlandı ve kullanıma hazır. **Panel** kakkında daha detaylı bilgi için [Panel](/docs/gift-craft/panel) bölümüne gidin.
+Your Boxes and Cards are now connected to the plugin and ready to use. For more detailed information about the **Panel**, go to the [Panel](/docs/gift-craft/panel) section.

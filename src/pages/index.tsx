@@ -20,8 +20,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/">
-            Go To poketheme.com
+            to="/docs/intro">
+            Go to Docs
           </Link>
         </div>
       </div>

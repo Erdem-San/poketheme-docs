@@ -4,44 +4,35 @@ sidebar_position: 1
 
 # Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the official documentation of Poketheme! This comprehensive guide will help you understand and implement our powerful theming solutions effectively.
 
-## Getting Started
+## What is Poketheme?
 
-Get started by **creating a new site**.
+Poketheme is a wix app and wix template building platform that allows you to create and customize beautiful, responsive themes and functional applications. Our solution provides:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- 🎨 Easy-to-use theme customization
+- 🚀 Fast implementation process
+- 📱 Responsive design support
+- 🛠️ Powerful widget system
+- 🔌 Plugin architecture
 
-### What you'll need
+## Documentation Structure
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Our documentation is organized into several main sections:
 
-## Generate a new site
+- **Core Concepts**: Understanding the fundamental principles
+- **Components**: Detailed guide for each component
+- **Widgets**: Information about available widgets and their usage
+- **API Reference**: Technical documentation for developers
+- **Tutorials**: Step-by-step guides for common tasks
 
-Generate a new Docusaurus site using the **classic template**.
+## Need Help?
 
-The classic template will automatically be added to your project after you run the command:
+If you need assistance, you can:
+- Browse through our documentation
+- Check our FAQ section
+- Contact our support team
+- Join our community forum
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Let's start building amazing themes together! Choose a section from the sidebar to begin your journey.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
